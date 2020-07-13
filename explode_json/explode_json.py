@@ -27,7 +27,7 @@ def explode_dict(dict_obj, name):
 def explode_object(obj, name):
     if type(obj) is list:
         explode_list(obj, name)
-    if type(obj) is dict:
+    elif type(obj) is dict:
         explode_dict(obj, name)
     else:
         # Write any non-collection item to hd

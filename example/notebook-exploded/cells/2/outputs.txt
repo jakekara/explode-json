@@ -1,1 +1,0 @@
-"[{'output_type': 'execute_result', 'data': {'text/plain': \"'Hello, Jake!'\"}, 'metadata': {}, 'execution_count': 3}]"
