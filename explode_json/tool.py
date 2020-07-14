@@ -1,5 +1,5 @@
 import argparse
-from explode_json import explode_json
+from .explode_json import explode_json
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
